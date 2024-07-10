@@ -4,6 +4,14 @@ Italian:
 
 Il programma in C consente agli utenti di gestire una raccolta di album musicali. Gli utenti possono inserire nuove informazioni sull'album, come titolo, artista, genere e anno di pubblicazione. Possono anche visualizzare un elenco di tutti gli album inseriti o cercare un album specifico per titolo o artista. Il programma consente inoltre agli utenti di modificare o eliminare le informazioni sull'album.
 
+
+Funzionalità aggiuntive che potrebbero essere implementate nel programma:
+
+- La possibilità di aggiungere brani agli album
+- La possibilità di riprodurre i brani
+- La possibilità di esportare la collezione di album in un file
+- La possibilità di importare una collezione di album da un file
+
 English:
 
 The C program allows users to manage a collection of music albums. Users can enter new album information, such as title, artist, genre, and release year. They can also view a list of all entered albums or search for a specific album by title or artist. The program also allows users to edit or delete album information.
