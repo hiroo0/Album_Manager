@@ -10,8 +10,8 @@ The C program allows users to manage a collection of music albums. Users can ent
 
 Additional features that could be added to the program:
 
-The ability to add songs to albums
-The ability to play songs
-The ability to export the album collection to a file
-The ability to import an album collection from a file
-I hope this helps! Let me know if you have any other questions.
+- The ability to add songs to albums
+- The ability to play songs
+- The ability to export the album collection to a file
+- The ability to import an album collection from a file
+- I hope this helps! Let me know if you have any other questions.
